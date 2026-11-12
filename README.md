@@ -4,7 +4,7 @@ A browser-based supply planning prototype that converts inventory, open purchase
 
 **Project owner:** Yu-Hao Tien  
 **Status:** Portfolio / beta prototype. Not validated for production planning.  
-**Live preview:** https://semi-risk-calvin.warmhero7.chatgpt.site — currently private; access may be restricted.
+**Live preview:** https://semi-risk-yuhaotien — currently private; access may be restricted.
 
 ## Problem and intended users
 
