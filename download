@@ -1,0 +1,9 @@
+# Local source datasets and exports
+uploads/
+private-data/
+*.csv
+*.xlsx
+material-radar-snapshot*.json
+# Local tooling
+node_modules/
+.DS_Store
