@@ -2,7 +2,7 @@
 
 A browser-based supply planning prototype that converts inventory, open purchase orders and open demand into a 28-day component shortage tracking view.
 
-**Project owner:** Calvin (Yu-Hao) Tien  
+**Project owner:** Yu-Hao Tien  
 **Status:** Portfolio / beta prototype. Not validated for production planning.  
 **Live preview:** https://semi-risk-calvin.warmhero7.chatgpt.site — currently private; access may be restricted.
 
